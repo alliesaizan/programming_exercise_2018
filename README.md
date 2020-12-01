@@ -1,1 +1,1 @@
-This repository hosts a programming exercise I completed for a job interview in Fall 2018. The goal of the exercise was to build a simple web scraper and analyze the information returned by the scraper. 
+This repository hosts a programming exercise I completed for a job interview in Fall 2018. The goal of the exercise was to build a simple web scraper and analyze the information returned by the scraper. I got the job 🎉, but this file is no longer an accurate representation of my Python skills, so I have archived the repository.
